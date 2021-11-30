@@ -3,7 +3,7 @@
 - 🔭 Aberto a novas propostas
 - 🌱 Estudando JavaScript
 
-<div align="right">
+<div align="center" display="flex">
   <a href="https://github.com/AndreDenadai">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AndreDenadai&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreDenadai&layout=compact&langs_count=7&theme=dark"/>
