@@ -1,7 +1,7 @@
-### Olá, me chamo André 👋
+### Hi, I'm André 👋
 
-- 🔭 Aberto a novas propostas
-- 🌱 Estudando JavaScript
+- 🔭 Open to proposals
+- 🌱 Studying JavaScript / React JS / Next JS
 
 <div align="left">
   <a href="https://github.com/AndreDenadai">
