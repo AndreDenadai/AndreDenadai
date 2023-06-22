@@ -1,6 +1,4 @@
 ### Hi, I'm André 👋
-
-- 🔭 Open to proposals
 - 🌱 Studying JavaScript / React JS / Next JS
 
 <div align="left">
